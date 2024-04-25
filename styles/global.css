@@ -4,17 +4,19 @@
   font-weight: 400;
   font-style: normal;
 }
-
 @font-face {
   font-family: "Larsseit";
   src: url("../../assets/fonts/Larsseit-Medium.otf");
   font-weight: 600;
   font-style: normal;
 }
-
 @font-face {
   font-family: "Larsseit";
   src: url("../../assets/fonts/Larsseit-Bold.otf");
   font-weight: 700;
   font-style: normal;
 }
+body {
+  margin: 0;
+  font-family: Larsseit, sans-serif;
+}/*# sourceMappingURL=global.css.map */
