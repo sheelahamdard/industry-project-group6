@@ -39,6 +39,22 @@ li {
   list-style-type: none;
 }
 
+.nameL1-4017155791 {
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+  height: 35px;
+  justify-content: center;
+  padding: 0 8px;
+  white-space: normal;
+}
+
+.icon-img {
+  width: 20px; /* Adjust size as needed */
+  height: 20px; /* Adjust size as needed */
+  margin-right: 5px;
+}
+
 .headerWrapper-3399147325 {
   margin-left: auto;
   margin-right: auto;
@@ -519,11 +535,7 @@ root-1666905760 {
 .menuItemL1__en-286932084 {
   display: inline-block;
 }
-.icon-img {
-  width: 20px; /* Adjust size as needed */
-  height: 20px; /* Adjust size as needed */
-  margin-right: 5px; /* Adjust spacing between icon and text */
-}
+
 .menuItemL1__en-286932084:nth-child(-n + 7),
 .menuItemL1__fr-2827780948:nth-child(-n + 6) {
   display: inline-block;
@@ -561,7 +573,6 @@ root-1666905760 {
   justify-content: center;
   padding: 0 8px;
   white-space: normal;
-  width: 10%;
 }
 
 .nameL1-4017155791 {
