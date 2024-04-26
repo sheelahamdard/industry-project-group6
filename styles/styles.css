@@ -139,13 +139,8 @@ li {
   padding-left: 46px;
   text-overflow: ellipsis;
   -webkit-appearance: none;
-<<<<<<< HEAD
-     -moz-appearance: none;
-          appearance: none;
-=======
   -moz-appearance: none;
   appearance: none;
->>>>>>> 6e8294cb58fcaf114b72072de425a4e448f159fc
 }
 
 .container-3620199450 {
@@ -303,12 +298,8 @@ li {
   display: inline-block;
   flex: auto;
   font-family: Larsseit, Arial, sans-serif;
-<<<<<<< HEAD
   font-weight: 400;
   color: #6c7083;
-=======
-  font-weight: 700;
->>>>>>> 6e8294cb58fcaf114b72072de425a4e448f159fc
   padding: 0;
   text-align: center;
   text-decoration: none;
@@ -529,13 +520,8 @@ root-1666905760 {
   display: inline-block;
 }
 
-<<<<<<< HEAD
-.menuItemL1__en-286932084:nth-child(-n+7),
-.menuItemL1__fr-2827780948:nth-child(-n+6) {
-=======
 .menuItemL1__en-286932084:nth-child(-n + 7),
 .menuItemL1__fr-2827780948:nth-child(-n + 6) {
->>>>>>> 6e8294cb58fcaf114b72072de425a4e448f159fc
   display: inline-block;
 }
 
@@ -571,6 +557,7 @@ root-1666905760 {
   justify-content: center;
   padding: 0 8px;
   white-space: normal;
+  width: 10%;
 }
 
 .nameL1-4017155791 {
@@ -623,11 +610,7 @@ root-1666905760 {
 
 .categoryName-3075893112 {
   font-size: 22px;
-<<<<<<< HEAD
   font-weight: 400;
-=======
-  font-weight: 700;
->>>>>>> 6e8294cb58fcaf114b72072de425a4e448f159fc
   line-height: 26px;
   color: #373373;
   margin: 32px 0 10px;
@@ -720,13 +703,8 @@ categoryList-4241702229 {
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   -webkit-user-select: none;
-<<<<<<< HEAD
-     -moz-user-select: none;
-          user-select: none;
-=======
   -moz-user-select: none;
   user-select: none;
->>>>>>> 6e8294cb58fcaf114b72072de425a4e448f159fc
 }
 
 .next {
@@ -779,18 +757,6 @@ categoryList-4241702229 {
   animation-name: fade;
   animation-duration: 1.5s;
 }
-<<<<<<< HEAD
-=======
-.nameL1-4017155791 {
-  display: flex;
-  align-items: center;
-}
-
-.nameL1-4017155791 img {
-  margin-right: 3px;
-  width: 10%;
-}
->>>>>>> 6e8294cb58fcaf114b72072de425a4e448f159fc
 
 @keyframes fade {
   from {
@@ -799,8 +765,4 @@ categoryList-4241702229 {
   to {
     opacity: 1;
   }
-<<<<<<< HEAD
-}/*# sourceMappingURL=styles.css.map */
-=======
 } /*# sourceMappingURL=styles.css.map */
->>>>>>> 6e8294cb58fcaf114b72072de425a4e448f159fc
